@@ -1,0 +1,32 @@
+Origin: soedit
+Label: soedit
+Codename: stretch
+Architectures: amd64 source
+Components: main
+Description: Apt repository for soedit
+SignWith: rajch@hotmail.com
+
+Origin: soedit
+Label: soedit
+Codename: jessie
+Architectures: amd64 source
+Components: main
+Description: Apt repository for soedit
+SignWith: rajch@hotmail.com
+
+Origin: soedit
+Label: soedit
+Codename: bionic
+Architectures: amd64 source
+Components: main
+Description: Apt repository for soedit
+SignWith: rajch@hotmail.com
+
+Origin: soedit
+Label: soedit
+Codename: xenial
+Architectures: amd64 source
+Components: main
+Description: Apt repository for soedit
+SignWith: rajch@hotmail.com
+
