@@ -31,8 +31,8 @@ prebuild-deb: ../build
 	      dh_make --single --email $(SIGNING_EMAIL) --yes --createorig && \
 	      cp -r ../../templates/build/$(SOURCE_DIRECTORY)/debian/* debian/ && \
 		  echo control, copyright and soedit.manpages files have been copied. && \
-		  echo Delete whatever else you do not need. \
-		  echo Then, invoke build-deb
+		  echo Delete whatever else you do not need. && \
+		  echo Then, invoke build-deb \
 	) || \
 	  echo Please download $(SOURCE_TARBALL) into build directory, and re-invoke prebuild-deb 
 
