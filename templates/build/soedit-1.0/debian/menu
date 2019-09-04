@@ -1,0 +1,2 @@
+?package(soedit):needs="X11|text|vc|wm" section="Applications/Editors"\
+  title="SOEdit" command="/usr/bin/soedit"

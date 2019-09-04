@@ -1,0 +1,17 @@
+Source: soedit
+Section: contrib/editors
+Priority: optional
+Maintainer: Raj Chaudhuri <rajch@hotmail.com>
+Build-Depends: debhelper (>= 10), autotools-dev
+Standards-Version: 4.1.2
+Homepage: http://www.jbox.dk/sanos/editor.htm
+Vcs-Git: https://github.com/rajch/soedit.git
+Vcs-Browser: https://github.com/rajch/soedit.git
+
+Package: soedit
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Simple, notepad/gedit-like console text editor
+ soedit follows the CUA standards for text editing, i.e., arrow keys 
+ and pgup/pgdown/home/end for navigation, the same with shift for 
+ selection, Ctrl-X/Ctrl-C/Ctrl-V for cut/copy/paste etc.
