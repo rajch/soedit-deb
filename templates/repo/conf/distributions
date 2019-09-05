@@ -4,7 +4,7 @@ Codename: stretch
 Architectures: amd64 source
 Components: main
 Description: Apt repository for soedit
-SignWith: %SIGNING_EMAIL%
+SignWith: %SIGNING_KEY%
 
 Origin: soedit
 Label: soedit
@@ -12,7 +12,7 @@ Codename: jessie
 Architectures: amd64 source
 Components: main
 Description: Apt repository for soedit
-SignWith: %SIGNING_EMAIL%
+SignWith: %SIGNING_KEY%
 
 Origin: soedit
 Label: soedit
@@ -20,7 +20,7 @@ Codename: bionic
 Architectures: amd64 source
 Components: main
 Description: Apt repository for soedit
-SignWith: %SIGNING_EMAIL%
+SignWith: %SIGNING_KEY%
 
 Origin: soedit
 Label: soedit
@@ -28,5 +28,5 @@ Codename: xenial
 Architectures: amd64 source
 Components: main
 Description: Apt repository for soedit
-SignWith: %SIGNING_EMAIL%
+SignWith: %SIGNING_KEY%
 
