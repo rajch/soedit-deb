@@ -2,16 +2,16 @@ Package: soedit
 Version: 1.0-1
 Architecture: amd64
 Maintainer: Raj Chaudhuri <rajch@hotmail.com>
-Installed-Size: 59
+Installed-Size: 60
 Depends: libc6 (>= 2.14)
 Homepage: http://www.jbox.dk/sanos/editor.htm
 Priority: optional
 Section: contrib/editors
 Filename: pool/main/s/soedit/soedit_1.0-1_amd64.deb
-Size: 19652
-SHA256: 6efb2e7fd0894889f3e40dc455ea632f684cb6eb841210473a4a1fc34635fc9b
-SHA1: 3abc6bc919dcf3d5bd383ff2a93225575469838e
-MD5sum: 80008050f90af976e30808d11d6e8c1d
+Size: 19748
+SHA256: 81f8b3dddfcb623c9c4aa17db7c5b01e9c1f55720635df5f841ecc7764d6d9cc
+SHA1: 1fd74a8204112d9969bb579b31db41142647ffec
+MD5sum: 4650a660211d67129dd7a3553912c1fe
 Description: Simple, notepad/gedit-like console text editor
  soedit follows the CUA standards for text editing, i.e., arrow keys
  and pgup/pgdown/home/end for navigation, the same with shift for
