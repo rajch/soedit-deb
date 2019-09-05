@@ -1,0 +1,5 @@
+Component: main
+Origin: soedit
+Label: soedit
+Architecture: source
+Description: Apt repository for soedit

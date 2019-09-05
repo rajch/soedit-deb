@@ -1,0 +1,48 @@
+Origin: soedit
+Label: soedit
+Codename: buster
+Architectures: amd64 source
+Components: main
+Description: Apt repository for soedit
+SignWith: 204EF325
+
+Origin: soedit
+Label: soedit
+Codename: stretch
+Architectures: amd64 source
+Components: main
+Description: Apt repository for soedit
+SignWith: 204EF325
+
+Origin: soedit
+Label: soedit
+Codename: jessie
+Architectures: amd64 source
+Components: main
+Description: Apt repository for soedit
+SignWith: 204EF325
+
+Origin: soedit
+Label: soedit
+Codename: disco
+Architectures: amd64 source
+Components: main
+Description: Apt repository for soedit
+SignWith: 204EF325
+
+Origin: soedit
+Label: soedit
+Codename: bionic
+Architectures: amd64 source
+Components: main
+Description: Apt repository for soedit
+SignWith: 204EF325
+
+Origin: soedit
+Label: soedit
+Codename: xenial
+Architectures: amd64 source
+Components: main
+Description: Apt repository for soedit
+SignWith: 204EF325
+

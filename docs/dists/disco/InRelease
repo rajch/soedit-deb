@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: soedit
+Label: soedit
+Codename: disco
+Date: Thu, 05 Sep 2019 09:07:17 UTC
+Architectures: amd64
+Components: main
+Description: Apt repository for soedit
+MD5Sum:
+ 6787eb804b21526012b319166cbed4f4 709 main/binary-amd64/Packages
+ f15c15031755da8b0cb8c83152369dd3 512 main/binary-amd64/Packages.gz
+ bdadaec7817e4b2e021dc933de267059 104 main/binary-amd64/Release
+ 058fc2b3d8d2dbf3a19e253814843849 1197 main/source/Sources
+ 60fd1d06eaa4b66d5c9ccd64d79f21a6 676 main/source/Sources.gz
+ cb75a45b760e8a8cc65a0ad31bfd2ba5 105 main/source/Release
+SHA1:
+ a565fdccbe2aff5d4a7be8b18ed299b54a229172 709 main/binary-amd64/Packages
+ 3f2193ab59b682dbec7c1e090defd228690d29cc 512 main/binary-amd64/Packages.gz
+ 9532eee74f82ad9b1f245dec89812ced0c4396b8 104 main/binary-amd64/Release
+ c13d597da0a7d415c70437411cae84408e6d387a 1197 main/source/Sources
+ af44840a133db59b5371723381c5e532ae0d72c6 676 main/source/Sources.gz
+ d4faf0b64828c2eb25ba88206bdc71cc886f92d7 105 main/source/Release
+SHA256:
+ f19dddfcfcda935412c8044f2a6cab6cddb2e9c4f932b6f0ba0980d5a0cc7654 709 main/binary-amd64/Packages
+ d2ad42a5865f5bfb4d9e4534ce69abf179cee606bcfccc83c6b560ce4de58d83 512 main/binary-amd64/Packages.gz
+ d9243303864377e3cb5348b1c03a286c420d57d47ea22d7ab18a866261c82877 104 main/binary-amd64/Release
+ 10ea7aeff831fd44779e658321ccda6b75dec17d785a07ba03f3050ea982df75 1197 main/source/Sources
+ 873fcc58fec06c686e8ce4a02bf5962ca90818fe3b2ba723d7aa150155cc4d84 676 main/source/Sources.gz
+ 3c7dae5f025173a0c545b14852f82f98bef1cd11a1d924ddce0f98fec478903f 105 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEm2ExLkQ2SxsbTgbONuz9/SBO8yUFAl1w0EYACgkQNuz9/SBO
+8yWt1xAAhO/FXiUpDJO2NKxOnk7mHzdBM8QZeSF7WN0NW7UNDsTsfkoAsbwysuXt
+LijRRpb/4d/1fzmhLu17ffSd3iE3UrSt6Y/HZUQbOUrKhntnYRb7Gt9IRoK2mDit
+p7Fjaow5iEmvIAZ1zDcxe9+Hh33CqMBvvkvW89EV4XNwe8wCuNFlf+7PNE6Xvdio
+I9v9TKUX60Bg8ewMcwdJi1FcNTAptHNwfMkcUVcHYEd4JbuU1ivrsRHiiSB1O4TH
+1bwZpV73ad/pRjklWriSJzRQeJ2VkpEbocDwvKqXPLBG2/tgy8jb9rCU5IKHo6eA
+Z8eNRziIM9z+43OLygNAZJJh/JIiGCaAioUjiRM9cSqywpkg8KD8q1JZOn3Mq0Tt
+U+MXHX+UVhXbtgmvjAUYsYdQfY5D2KFXy5p5RzqRuOQJAxfW+H+W33jqCc/+/kpQ
+9zO7dOswKNstISmZv2/DFrK40J0y8CZgNEfOS+tWkkYciXFxRkCiUkeyU3Qja2Qz
+G7bWeKJz5TjwxgzkmtmHGJnMHGYEiZ61MaKcoUc2titfyaWuyA5nNVXR0A1heAu5
+ijO4bUT1VlU4Wbsd2g7fatRQhUMZhjIAWM0hYIBdb4keOi+O8aVu0XSkxUkkejD9
+9iN1aW1BCFiTI2R6+Zupu1F7p2+/lbrn+y5PoPJSCJQQUhTxSoA=
+=LW3h
+-----END PGP SIGNATURE-----
