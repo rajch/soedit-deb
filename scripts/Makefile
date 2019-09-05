@@ -80,9 +80,11 @@ prebuild-repo: ../docs
 
 build-repo:
 	@cd ../docs && \
-	  echo Building repo for stretch, jessie, bionic and xenial... && \
+	  echo Building repo for buster, stretch, jessie, disco, bionic and xenial... && \
+	  reprepro --ignore=wrongdistribution include buster ../build/$(CHANGES_FILE) && \
 	  reprepro --ignore=wrongdistribution include stretch ../build/$(CHANGES_FILE) && \
 	  reprepro --ignore=wrongdistribution include jessie ../build/$(CHANGES_FILE) && \
+	  reprepro --ignore=wrongdistribution include disco ../build/$(CHANGES_FILE) && \
 	  reprepro --ignore=wrongdistribution include bionic ../build/$(CHANGES_FILE) && \
 	  reprepro --ignore=wrongdistribution include xenial ../build/$(CHANGES_FILE)
 

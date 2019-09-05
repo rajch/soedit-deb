@@ -1,5 +1,13 @@
 Origin: soedit
 Label: soedit
+Codename: buster
+Architectures: amd64 source
+Components: main
+Description: Apt repository for soedit
+SignWith: %SIGNING_KEY%
+
+Origin: soedit
+Label: soedit
 Codename: stretch
 Architectures: amd64 source
 Components: main
@@ -9,6 +17,14 @@ SignWith: %SIGNING_KEY%
 Origin: soedit
 Label: soedit
 Codename: jessie
+Architectures: amd64 source
+Components: main
+Description: Apt repository for soedit
+SignWith: %SIGNING_KEY%
+
+Origin: soedit
+Label: soedit
+Codename: disco
 Architectures: amd64 source
 Components: main
 Description: Apt repository for soedit
